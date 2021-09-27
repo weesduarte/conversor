@@ -11,9 +11,8 @@ This app was buildt using HG Finance API [HG Finance](https://hgbrasil.com/statu
 
 | **Preview**
 |-------------|
-|! [alt text] [gif]
+|![ezgif com-gif-maker](https://user-images.githubusercontent.com/90530236/134928285-0192102b-8f53-410b-9819-42505c24c7a3.gif)
 
-[gif]: https://media2.giphy.com/media/T9aZSqjUQNwQv5FT6P/giphy.gif?cid=790b7611dc45a7c47020f0f4a64c29b671b70b664cd4ca88&rid=giphy.gif&ct=g
 
 
 - :chart: Refresh buttom to reset all camps
