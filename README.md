@@ -2,7 +2,7 @@
 
 A real-time currency converter with the most used ones today
 
-This app was buildt using HG Finance API [HG Finance](https://hgbrasil.com/status/finance)
+This app was buildt using *HG Finance API* [HG Finance](https://hgbrasil.com/status/finance)
 
 ### Available conversions :receipt:
   - BRL to USD
