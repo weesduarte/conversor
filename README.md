@@ -15,6 +15,9 @@ This app was buildt using HG Finance API [HG Finance](https://hgbrasil.com/statu
 
 
 
+
+
+
 - :chart: Refresh buttom to reset all camps
 - :chart: Real time conversion
 - :chart: Simple usability interface    :student:
